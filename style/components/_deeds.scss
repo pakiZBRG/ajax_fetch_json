@@ -1,0 +1,95 @@
+.container{
+    width: 60%;
+    margin: 0 auto;
+    @media(max-width: 860px){
+        width: 90%;
+    }
+
+    & .center{
+        text-align: center;
+        margin-top: 3rem;
+    }
+}
+
+.man{
+    display: inline-block;
+    margin-bottom: 2rem;
+    position: relative;
+
+    &::after{
+        content: '';
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 110%;
+        height: 8px;
+        background: #f9d342;
+        z-index:  -1;
+    }
+}
+
+.behave{
+    @extend .man;
+
+    &::after{
+        @extend .man::after;
+        background: crimson;
+    }
+}
+
+.dress{
+    @extend .man;
+
+    &::after{
+        @extend .man::after;
+        background: teal;
+    }
+}
+
+.woman{
+    @extend .man;
+
+    &::after{
+        @extend .man::after;
+        background: coral;
+    }
+}
+
+.calm{
+    @extend .man;
+
+    &::after{
+        @extend .man::after;
+        background: magenta;
+    }
+}
+
+.man{
+    &-deeds{
+        list-style: none;
+
+        &-title{
+            border-bottom: 4px solid #f9d342;
+            display: inline-block;
+            font-weight: 600;
+            color: #292826;
+            font-size: 1.4rem;
+        }
+
+        &-body{
+            font-weight: 100;
+            color: rgb(63, 63, 63);
+            text-indent: 1rem;
+            margin-bottom: 0.8rem;
+        }
+    }
+}
+
+.crimson {border-color: crimson;}
+
+.teal {border-color: teal;}
+
+.coral {border-color: coral}
+
+.magenta {border-color: magenta}

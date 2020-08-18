@@ -1,0 +1,242 @@
+{
+    "howToBeAMan": [
+        {
+            "id": 1,
+            "title": "Have a mission",
+            "content": "Man who has found his why will answer any how"
+        },
+        {
+            "id": 2,
+            "title": "Goal orianted",
+            "content": "Have goals for every day which you want to achieve"
+        },
+        {
+            "id": 3,
+            "title": "Discipline",
+            "content": "It is your best friend, it will take care of you nothing ever will"
+        },
+        {
+            "id": 4,
+            "title": "Read",
+            "content": "Broaden your horizons"
+        },
+        {
+            "id": 5,
+            "title": "Workout",
+            "content": "Be like Michelangelo's David"
+        },
+        {
+            "id": 6,
+            "title": "Emotionally stable",
+            "content": "Conquor your anxiety, fear and warth"
+        },
+        {
+            "id": 7,
+            "title": "Confidene",
+            "content": "Beliefe in yourself, go even if you are burning inside"
+        },
+        {
+            "id": 8,
+            "title": "Boldnes, Courage",
+            "content": "Nature loves courage, once you break the borders you will reap the rewards"
+        },
+        {
+            "id": 9,
+            "title": "Testosterone",
+            "content": ["zinc", "vitamine D", "sleep", ">15% body fat", "reduce stress"]
+        },
+        {
+            "id": 10,
+            "title": "Words never defined a man",
+            "content": "Your action is speaking so load that i can not hear what you are saying"
+        },
+        {
+            "id": 11,
+            "title": "Your life WILL always be full of challenges and adversity",
+            "content": "Embrace it, that is a thing about being a man"
+        }
+    ],
+
+    "howToCalm": [
+        {
+            "id": 1,
+            "title": "Mediatate",
+            "content": "10-30min is execellent to battle your overthinkg habit"
+        },
+        {
+            "id": 2,
+            "title": "Stoicism",
+            "content": "Do not care about things out of your control (people, traffic weather)"
+        },
+        {
+            "id": 3,
+            "title": "Don't watch porn nor masturbate",
+            "content": "Why would you watch other man having sex when you can do it with a real woman"
+        },
+        {
+            "id": 4,
+            "title": "Live on the edge",
+            "content": "Daily expose yourself to your fears and insecurities"
+        },
+        {
+            "id": 5,
+            "title": "Don't think about past or future",
+            "content": "People believe that the next moment is more important than now, and so they waste their whole life in expectations"
+        }
+
+    ],
+
+    "howToBehave": [
+        {
+            "id": 1,
+            "title": "Upright with chin up",
+            "content": "Shoulders back, chin parallel with ground, chest up"
+        },
+        {
+            "id": 2,
+            "title": "Eye contact",
+            "content": "Gaze in peoples eye (not stare)"
+        },
+        {
+            "id": 3,
+            "title": "Walk the Walk",
+            "content": "You are not in a hurry, swaving shoulders and hands"
+        },
+        {
+            "id": 4,
+            "title": "Talk the Talk",
+            "content": "Slow, clear, intentional"
+        },
+        {
+            "id": 5,
+            "title": "Do not fidget",
+            "content": "Don't be nerouse little boy"
+        },
+        {
+            "id": 6,
+            "title": "Do no put your hands in pockets",
+            "content": "What are hiding in there? Boner?"
+        },
+        {
+            "id": 7,
+            "title": "Sense of humor",
+            "content": "Not to be a clown nor a jokestar, but to show your easy-going and fun nature"
+        },
+        {
+            "id": 8,
+            "title": "Be indifferent to pain",
+            "content": "Calm in face of adversity"
+        },
+        {
+            "id": 9,
+            "title": "Listen",
+            "content": "You have one mouth and two ears for a reason, use them"
+        },
+        {
+            "id": 10,
+            "title": "Be interesting",
+            "content": "Ask open ended questions"
+        }
+    ],
+
+    "Appereance":[
+        {
+            "id": 1,
+            "title": "Develop your wardrobe",
+            "content": "Buy clothing that describe you"
+        },
+        {
+            "id": 2,
+            "title": "Do not buy disegnare clothes",
+            "content": "Who are you trying to impress? You? Don't lie"
+        },
+        {
+            "id": 3,
+            "title": "Comfortable",
+            "content": "Comfort should be your priority"
+        },
+        {
+            "id": 4,
+            "title": "Well Fitted",
+            "content": "On your, neck, shoulders and biceps"
+        },
+        {
+            "id": 5,
+            "title": "Experiment with colors",
+            "content": "white, navy, olive-green or black"
+        },
+        {
+            "id": 6,
+            "title": "Exercise",
+            "content": "You will look good == you will feel good"
+        },
+        {
+            "id": 7,
+            "title": "Hygiene",
+            "content": "Showering, trimming, exfoliating, moistorizing"
+        },
+        {
+            "id": 8,
+            "title": "Scent",
+            "content": "Old spice on your armpits and neck"
+        }
+    ],
+
+    "Woman": [
+        {
+            "id": 1,
+            "title": "Your purpose is your #1 priority before any relationship",
+            "content": "She does not want to be your #1, even though she will say otherwise"
+        },
+        {
+            "id": 2,
+            "title": "Never change your perspective for a woman",
+            "content": "Dont change your attitude, point of view"
+        },
+        {
+            "id": 3,
+            "title": "Woman will always test you",
+            "content": "If you react you lose, remain calm and stoic"
+        },
+        {
+            "id": 4,
+            "title": "What she says is not what she wants",
+            "content": "She will test you, seduce you, taunt you, ready to chop you head off if you show weakness and ambiguity"
+        },
+        {
+            "id": 5,
+            "title": "She wants you to be in charge",
+            "content": "Masculine trait"
+        },
+        {
+            "id": 6,
+            "title": "Masculine prioritize his mission, feminine love and relationship",
+            "content": "It should not be vice versa"
+        },
+        {
+            "id": 7,
+            "title": "Never clinge to her, nor be needy",
+            "content": "Don't call her, control her nor limit her"
+        },
+        {
+            "id": 8,
+            "title": "Do not care what she says or does",
+            "content": "If she wants to go out with her friends, let her go"
+        },
+        {
+            "id": 9,
+            "title": "Her love and trust will be tested via action",
+            "content": "What she says is not what she feels"
+        },
+        {
+            "id": 10,
+            "title": "Never be indecisive with your woman",
+            "content": "Always state either A or B"
+        },
+        {
+            "id": 11,
+            "title": "When she is in a bad mood, do not analyze her",
+            "content": "Assume she is feeling unloved, and give her your love"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Alata', sans-serif;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+@media (max-width: 860px) {
+  .container {
+    width: 90%;
+  }
+}
+
+.container .center {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.man, .behave, .dress, .woman, .calm {
+  display: inline-block;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.man::after, .behave::after, .dress::after, .woman::after, .calm::after {
+  content: '';
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 110%;
+  height: 8px;
+  background: #f9d342;
+  z-index: -1;
+}
+
+.behave::after {
+  background: crimson;
+}
+
+.dress::after {
+  background: teal;
+}
+
+.woman::after {
+  background: coral;
+}
+
+.calm::after {
+  background: magenta;
+}
+
+.man-deeds {
+  list-style: none;
+}
+
+.man-deeds-title {
+  border-bottom: 4px solid #f9d342;
+  display: inline-block;
+  font-weight: 600;
+  color: #292826;
+  font-size: 1.4rem;
+}
+
+.man-deeds-body {
+  font-weight: 100;
+  color: #3f3f3f;
+  text-indent: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.crimson {
+  border-color: crimson;
+}
+
+.teal {
+  border-color: teal;
+}
+
+.coral {
+  border-color: coral;
+}
+
+.magenta {
+  border-color: magenta;
+}
+/*# sourceMappingURL=style.css.map */
