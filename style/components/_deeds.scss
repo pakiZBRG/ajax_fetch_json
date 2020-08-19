@@ -65,6 +65,15 @@
     }
 }
 
+.suffer{
+    @extend .man;
+
+    &::after{
+        @extend .man::after;
+        background: rgb(0, 102, 204);
+    }
+}
+
 .man{
     &-deeds{
         list-style: none;
@@ -93,3 +102,5 @@
 .coral {border-color: coral}
 
 .magenta {border-color: magenta}
+
+.blue {border-color:rgb(0, 102, 204)}

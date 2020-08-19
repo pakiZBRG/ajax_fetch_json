@@ -21,13 +21,13 @@
   margin-top: 3rem;
 }
 
-.man, .behave, .dress, .woman, .calm {
+.man, .behave, .dress, .woman, .calm, .suffer {
   display: inline-block;
   margin-bottom: 2rem;
   position: relative;
 }
 
-.man::after, .behave::after, .dress::after, .woman::after, .calm::after {
+.man::after, .behave::after, .dress::after, .woman::after, .calm::after, .suffer::after {
   content: '';
   position: absolute;
   top: 55%;
@@ -54,6 +54,10 @@
 
 .calm::after {
   background: magenta;
+}
+
+.suffer::after {
+  background: #0066cc;
 }
 
 .man-deeds {
@@ -89,5 +93,9 @@
 
 .magenta {
   border-color: magenta;
+}
+
+.blue {
+  border-color: #0066cc;
 }
 /*# sourceMappingURL=style.css.map */

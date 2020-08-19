@@ -54,6 +54,11 @@
             "id": 11,
             "title": "Your life WILL always be full of challenges and adversity",
             "content": "Embrace it, that is a thing about being a man"
+        },
+        {
+            "id": 12,
+            "title": "Learn to fight",
+            "content": "Not to KO people cuz they didn't like your shoes, but to protect you and your loved ones, when it is need. And also huge conifidence boost"
         }
     ],
 
@@ -70,20 +75,62 @@
         },
         {
             "id": 3,
-            "title": "Don't watch porn nor masturbate",
-            "content": "Why would you watch other man having sex when you can do it with a real woman"
-        },
-        {
-            "id": 4,
             "title": "Live on the edge",
             "content": "Daily expose yourself to your fears and insecurities"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Don't think about past or future",
             "content": "People believe that the next moment is more important than now, and so they waste their whole life in expectations"
+        },
+        {
+            "id": 5,
+            "title": "Breath deeply",
+            "content": "From your nose (not mouth) to your belly"
         }
+    ],
 
+    "howToSuffer": [
+        {
+            "id": 1,
+            "title": "Your biggest enemy is you",
+            "content": "Do no get overwhelemed by yourself"
+        },
+        {
+            "id": 2,
+            "title": "Cold shower",
+            "content": "It awakes you like nothng, improves mood and skin health"
+        },
+        {
+            "id": 3,
+            "title": "Wake up eraly",
+            "content": "Aim anything before 07:00"
+        },
+        {
+            "id": 4,
+            "title": "Approach woman on street",
+            "content": "Not on clubs with booze in your blood"
+        },
+        {
+            "id": 5,
+            "title": "Don't watch porn nor masturbate",
+            "content": "Why would you watch other man having sex when you can do it with a real woman"
+        },
+        {
+            "id": 6,
+            "title": "Participate in competetive team sports",
+            "content": "From soccer and basketball to MMA and box. don't waitch it, play it"
+        },
+        {
+            "id": 7,
+            "title": "Lift weights or HIIT",
+            "content": "Strenous physical activity for strength"
+        },
+        {
+            "id": 8,
+            "title": "Start a business",
+            "content": "Not anything gracious, but do yo have the balls to take reponsibilities"
+        }
     ],
 
     "howToBehave": [
@@ -179,6 +226,11 @@
             "id": 8,
             "title": "Scent",
             "content": "Old spice on your armpits and neck"
+        },
+        {
+            "id": 9,
+            "title": "Mew",
+            "content": "Apply pressure on roof of your mouth with your tongue, close your mouth and breath trough nose always"
         }
     ],
 

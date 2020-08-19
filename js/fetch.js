@@ -6,6 +6,18 @@ window.addEventListener('load', () => {
             let output = '';
             const woman = data.Woman;
             let Woman = ''
+            const suffer = data.howToSuffer;
+            let Suffer = '';
+
+            suffer.forEach(kid => {
+                Suffer += `
+                    <ul class='man-deeds'>
+                        <li class='man-deeds-title blue'>${kid.id}. ${kid.title}</li>
+                        <li class='man-deeds-body'>${kid.content}</li>
+                    </ul>
+                `
+            })
+            document.getElementById('suffer').innerHTML = Suffer;
 
             man.forEach(kid => {
                 output += `
